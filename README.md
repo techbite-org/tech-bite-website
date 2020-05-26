@@ -1,1 +1,1 @@
-# tech-bite-website
+# tech-bite-web
