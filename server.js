@@ -15,4 +15,5 @@ app.get("*", (req, res) => {
     res.sendFile(__dirname + "/views/404.html");
 });
 
-app.listen(info.port).then(console.log("Successfully started website!"))
+app.listen(info.port)
+console.log("Successfully started website!")
